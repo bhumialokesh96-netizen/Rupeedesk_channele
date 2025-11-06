@@ -1,4 +1,4 @@
-// --- Firebase Configuration ---
+// --- NEW Firebase Configuration (replace the old one) ---
 const firebaseConfig = {
     apiKey: "AIzaSyAvuTedi4hNLDTHwNt3tElmZZmwmxBC_zo",
     authDomain: "rupeedesk7.firebaseapp.com",
@@ -6,6 +6,9 @@ const firebaseConfig = {
     storageBucket: "rupeedesk7.firebasestorage.app",
     messagingSenderId: "1013963357851",
     appId: "1:1013963357851:android:eea4e2e566c2244aed503e",
+    // measurementId is optional for web – you can omit it if you don’t use Analytics
+    // measurementId: "G-XXXXXXXXXX"
+};
 
 // --- Firebase Imports ---
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
