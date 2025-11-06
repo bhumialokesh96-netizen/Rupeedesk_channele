@@ -1,13 +1,11 @@
 // --- Firebase Configuration ---
 const firebaseConfig = {
-    apiKey: "AIzaSyCkeKgtfVDq2RrBPY4o495-8uFz1y4cASU",
-    authDomain: "rupeedesk-135aa.firebaseapp.com",
-    projectId: "rupeedesk-135aa",
-    storageBucket: "rupeedesk-135aa.firebasestorage.app",
-    messagingSenderId: "977708454299",
-    appId: "1:977708454299:web:a57efa90527a10a662513e",
-    measurementId: "G-L5S0WG796F"
-};
+    apiKey: "AIzaSyAvuTedi4hNLDTHwNt3tElmZZmwmxBC_zo",
+    authDomain: "rupeedesk7.firebaseapp.com",
+    projectId: "rupeedesk7",
+    storageBucket: "rupeedesk7.firebasestorage.app",
+    messagingSenderId: "1013963357851",
+    appId: "1:1013963357851:android:eea4e2e566c2244aed503e",
 
 // --- Firebase Imports ---
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
